@@ -1,0 +1,48 @@
+header, footer{
+  background-color: black;
+}
+.footer{
+    color: white ;
+    text-align: center;
+}
+
+.card{
+    padding: 15px;
+   background-image: linear-gradient(to right, #A1C4FD, #83CEF6, #C2E9FB);
+
+}
+
+.slider {
+  margin: 0;
+  padding: 0;
+   text-align: center;
+}
+.slider-img{
+   text-align: center;
+  width: 100%
+}
+
+li{
+  padding: 10px;
+   display: inline-block;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+}
+
+.image {
+  border: 12px solid transparent;
+  float: left;
+  padding-left: 0px;
+  width: 150px;
+
+}
+.p-text{
+  padding: 5px;
+  text-align: justify;
+  column-gap: 10px;
+  column-count: 4;
+  column-rule: 2px double black;
+}
